@@ -1,0 +1,17 @@
+# Batch Rename Tool Dependencies
+
+# GUI Dependencies (Optional, not required if only using CLI)
+PySide6>=6.5.0
+
+# The following are Python standard libraries, no additional installation needed:
+# - pathlib
+# - os
+# - json
+# - uuid
+# - datetime
+# - argparse
+# - dataclasses
+# - typing
+# - enum
+# - platform
+# - re
